@@ -1,59 +1,58 @@
-Dom’s Tool Case
+📱 Dom’s Tool Case
 
-Dom’s Tool Case is a compact toolbox app for audio, video and lighting techs.
-You get fast calculators, references and utilities you use on shows every day.
+Dom’s Tool Case gives you fast, practical tools for audio, video and lighting work.
+You get simple calculators and references that save time during setups and live shows.
 
-Features
+🔧 Features
 
-Audio
+🎚️ Audio
 	•	Delay Calculator – quick alignment using speaker and listener positions.
 	•	Do I Need Delays? – front-to-back comparison with a clear ratio.
-	•	Mic Stand Height Helper – repeatable heights for consistent setups.
+	•	Mic Stand Height Helper – repeatable height reference.
 
-Video
-	•	Camera FOV Calculator – tight/wide visual lines plus sensor and zoom inputs.
+🎥 Video
+	•	Camera FOV Calculator – tight and wide FOV lines plus zoom and sensor inputs.
 	•	Throw Distance Helper – fast projection checks.
 
-Power
-	•	CableCalc – UK-focused power load and voltage drop tool.
-Includes:
-	•	Iz, VD, Zs info popups
-	•	Cable type, grouping, method and temp inputs
-	•	Optional design-detail table
+⚡ Power
+	•	CableCalc – UK-focused load and voltage drop tool.
+	•	Iz, VD, Zs info
+	•	Cable type, grouping, method, temp
+	•	“Show design detail” table
 	•	Export options
 
-Crew Utilities
-	•	Flight Stretch Guide – simple movement images sized for mobile.
+🧳 Crew Utilities
+	•	Flight Stretch Guide – simple motion images sized for mobile.
 	•	Unit Converters – distance, weight and common show-day values.
 
-Ads
+📢 Ads
 	•	Persistent bottom banner using:
 	•	AdMob
 	•	Your own promo cards (MyCrewMate, ArrayLog, CrewStop)
 
-Why the app exists
+💡 Why this app
 
-You need quick numbers when you’re under pressure.
-Dom’s Tool Case gives you direct answers in a few taps.
+You want quick numbers without digging through menus.
+Dom’s Tool Case keeps everything direct and fast to use.
 
-Highlights
-	•	Simple UI
-	•	Large tap areas for dark environments
-	•	Metric-first inputs with optional feet mode
-	•	Decimal input supported
+⭐ Highlights
+	•	Clean UI
+	•	Large tap areas for dark stages
+	•	Metric inputs with optional feet mode
+	•	Decimal input support
 	•	Offline use
 	•	No sound or haptic feedback
 
-Roadmap
-	•	Extra AV calculators
-	•	Improved drawings for camera tools
-	•	Optional simple RTA module
-	•	More personal ads and partnership slots
+🚀 Roadmap
+	•	More AV calculators
+	•	Improved FOV drawings
+	•	Simple RTA module
+	•	Additional promo card slots
 
-Tech
+🛠 Tech
 	•	Flutter
-	•	iOS + Android builds
+	•	iOS + Android
 
-Contact
+📬 Contact
 
-Open an issue or message directly if you want to sponsor a tool or request a feature.
+Open an issue or message me if you want to request features or sponsor tools.
